@@ -1,0 +1,9 @@
+password=Naguibs1337228
+token=7111432235:AAHXthENiFgNprBJ5KENmbM-Uc_UhQlx1iI
+photoPath=./Screenshot.jpeg
+photoType=image/jpeg
+characterNumber=1
+restartHour=7
+restartMinMin=0
+restartMaxMin=5
+autoRestart=0
